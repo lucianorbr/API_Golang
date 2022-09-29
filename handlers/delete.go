@@ -3,6 +3,7 @@ package handlers
 import (
 	"encoding/json"
 	"github.com/lucianorbr/API_Golang/models"
+	"github.com/go-chi/chi/v5"
 	"log"
 	"net/http"
 	"strconv"
