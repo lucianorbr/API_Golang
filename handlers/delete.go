@@ -2,8 +2,9 @@ package handlers
 
 import (
 	"encoding/json"
-	"github.com/lucianorbr/API_Golang/models"
+	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/v5"
+	"github.com/lucianorbr/API_Golang/models"
 	"log"
 	"net/http"
 	"strconv"
