@@ -14,6 +14,6 @@ API de Gerenciamento de TO-DO
 - [x] Postgres
 - [x] Docker
 
-## O Projeito
+## O Projeto
 - Projeto prático de criação de uma API completa de gerenciamento de TO-DO, utilizando banco de dados Postgres.
  
